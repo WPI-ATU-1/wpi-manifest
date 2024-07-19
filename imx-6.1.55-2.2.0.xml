@@ -43,7 +43,7 @@
   <project name="meta-nxp-demo-experience" remote="imx-support" path="sources/meta-nxp-demo-experience" revision="mickledore-6.1.55-2.2.0" />
 
   <!-- Add meta-wpi to sources -->
-  <project name="meta-wpi" path="sources/meta-wpi" remote="wpi-atu-1" revision="6090cd5de050ec9641c67ff96491164528e97ae8" upstream="mickledore-6.1.55-2.2.0" >
+  <project name="meta-wpi" path="sources/meta-wpi" remote="wpi-atu-1" revision="ca2101f8df57d236b8e70e478f2f0e2e3f6829c8" upstream="mickledore-6.1.55-2.2.0" >
      <linkfile src="tools/imx-setup-release.sh" dest="imx-setup-release.sh"/>
   </project>
 </manifest>
