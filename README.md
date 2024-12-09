@@ -31,10 +31,10 @@ $ repo sync
 
 ## 範例
 
-下載 6.1.55-2.2.0 版本
+下載 6.6.23-2.0.0 版本
 
 ```!
-$ repo init -u https://github.com/WPI-ATU-1/wpi-manifest.git -b imx-linux-mickledore -m imx-6.1.55-2.2.0.xml
+$ repo init -u https://github.com/WPI-ATU-1/wpi-manifest.git -b imx-linux-scarthgap -m imx-6.6.23-2.0.0.xml
 ```
 
 ## 建立編譯環境
