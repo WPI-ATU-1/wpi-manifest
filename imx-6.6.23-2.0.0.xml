@@ -42,7 +42,7 @@
   </project>
 
   <!-- Add meta-wpi to sources -->
-  <project name="meta-wpi" path="sources/meta-wpi" remote="wpi-atu-1" revision="4b460d1fb8f15d8dfa5ba63ce3d29407469f2def" upstream="scarthgap-6.6.23-2.0.0" >
+  <project name="meta-wpi" path="sources/meta-wpi" remote="wpi-atu-1" revision="4ae51143192d834ca937f80e4b5dfa5e7c861a94" upstream="scarthgap-6.6.23-2.0.0" >
     <linkfile src="tools/imx-setup-release.sh" dest="imx-setup-release.sh"/>
   </project>
 
